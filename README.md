@@ -1,2 +1,2 @@
 # project1
-This is my firat project
+This is my first project
